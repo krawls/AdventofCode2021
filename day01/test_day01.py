@@ -10,7 +10,7 @@ class Day01Tests(unittest.TestCase):
         expected = 7
         self.assertEqual(actual, expected)
 
-    def test_sample(self):
+    def test_sample2(self):
         actual = count_depth_measurements_three_window('sample.txt')
         expected = 5
         self.assertEqual(actual, expected)
