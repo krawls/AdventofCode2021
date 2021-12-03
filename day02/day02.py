@@ -61,5 +61,5 @@ def determine_position2(filename):
 
 output = determine_position('input.txt')
 output2 = determine_position2('input.txt')
-print("Part 1: Horizontal Position : ", output[0], " Depth: ", output[1], " Multipied: ", output[2])
-print("Part 2: Horizontal Position : ", output2[0], " Depth: ", output2[1], " Multipied: ", output2[2])
+print("Part 1: Horizontal Position: ", output[0], " Depth: ", output[1], " Multiplied: ", output[2])
+print("Part 2: Horizontal Position: ", output2[0], " Depth: ", output2[1], " Multiplied: ", output2[2])

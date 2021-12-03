@@ -3,7 +3,7 @@ import unittest
 from day02 import determine_position
 from day02 import determine_position2
 
-class Day01Tests(unittest.TestCase):
+class Day02Tests(unittest.TestCase):
 
     def test_sample(self):
         actual = determine_position('sample.txt')
